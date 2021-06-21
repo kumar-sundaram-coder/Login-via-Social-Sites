@@ -38,5 +38,7 @@ for mobiles as well as tablets.
 submit the url.
 
 ## Technologies Used:
+
 >  ### IDE : Android Studio
+
 > ### Language : Java
