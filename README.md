@@ -8,8 +8,7 @@ The Sparks Foundation Tasks
 
 This repository contains the task that I completed while working as an intern for The Sparks Foundation.
 
--By using this app,User can login with their social media accounts like Facebook and Google.
--Then,his/her basic info like Profile photo, Name and Email-id are displayed on the second page.
+By using this app,User can login with their social media accounts like Facebook and Google. Then,his/her basic info like Profile photo, Name and Email-id are displayed on the second page.
 
 Internship Category - Mobile App Development
 
